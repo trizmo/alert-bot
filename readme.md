@@ -17,6 +17,6 @@ The next stage for this project is to build the user interface to allow for the 
 - currently makes one call per item in alertList
 
 # Screenshot
-<img src="./img/screenshot1.jpg">
+<img src="./img/screenshot1.png">
 
-<img src="./img/screenshot2.jpg">
+<img src="./img/screenshot2.png">
